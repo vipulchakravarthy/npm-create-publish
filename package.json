@@ -1,0 +1,22 @@
+{
+  "name": "play-on-words",
+  "version": "1.0.0",
+  "description": "To check whether a string is palindrome or not? test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vipulchakravarthy/npm-create-publish.git"
+  },
+  "keywords": [
+    "Palindrome"
+  ],
+  "author": "Vipul Chakravarthy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vipulchakravarthy/npm-create-publish/issues"
+  },
+  "homepage": "https://github.com/vipulchakravarthy/npm-create-publish#readme"
+}
